@@ -1,3 +1,4 @@
 # backgroundpullactivity
 安卓后台无权限拉起activity
 可以源码交付
+邮箱:3867240184@qq.com
