@@ -1,0 +1,2 @@
+# backgroundpullactivity
+安卓后台无权限拉起activity
